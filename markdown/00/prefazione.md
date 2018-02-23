@@ -1,4 +1,4 @@
-#### PREFAZIONE
+# PREFAZIONE
 A cura delle Brigate di Solidarietà Attiva
 Nasciamo come Brigate della solidarietà attiva durante il terremoto
 aquilano come prima risposta di intervento dal basso a favore delle

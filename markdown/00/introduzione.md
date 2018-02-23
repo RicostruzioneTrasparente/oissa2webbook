@@ -1,4 +1,4 @@
-#### INTRODUZIONE
+# INTRODUZIONE
 A cura di Alterego – Fabbrica dei Diritti
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – OISSA molte cose sono cambiate.
