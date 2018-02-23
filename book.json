@@ -1,0 +1,19 @@
+{
+    "language": "it",
+    "title": "Oissa",
+    "author": "Alterego – Fabbrica dei Diritti",
+    "direction": "ltr",
+    "pdf.paperSize": "a4",
+    "root": "markdown",
+    "plugins" : [ 
+        "anchors",
+        "edit-link"],
+        "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/RicostruzioneTrasparente/oissa2webbook/tree/master",
+                "label": "su GitHub"
+            }
+        }
+    }
+    
+    
