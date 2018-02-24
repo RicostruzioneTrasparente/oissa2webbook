@@ -12,6 +12,9 @@
             "edit-link": {
                 "base": "https://github.com/RicostruzioneTrasparente/oissa2webbook/tree/master/markdown",
                 "label": "su GitHub"
+            },
+            "disqus": {
+                "shortName": "oissa2"
             }
         }
     }
