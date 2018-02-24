@@ -7,7 +7,7 @@
     "root": "markdown",
     "plugins" : [ 
         "anchors",
-        "edit-link","disqus","superscript"],
+        "edit-link","disqus","superscript","youtube"],
         "pluginsConfig": {
             "edit-link": {
                 "base": "https://github.com/RicostruzioneTrasparente/oissa2webbook/tree/master/markdown",
