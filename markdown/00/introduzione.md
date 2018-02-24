@@ -1,3 +1,6 @@
+---
+disqus: false
+---
 # INTRODUZIONE
 A cura di Alterego – Fabbrica dei Diritti
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
