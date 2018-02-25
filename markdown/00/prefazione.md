@@ -1,7 +1,3 @@
----
-disqus: false
----
-
 # PREFAZIONE
 A cura delle Brigate di Solidarietà Attiva
 Nasciamo come Brigate della solidarietà attiva durante il terremoto
