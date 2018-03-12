@@ -31,10 +31,10 @@ qui in avanti, è proprio quello di continuare il lavoro di "soccorso legale" ch
 
 Tale convinzione si consolida nella nostra mente anche grazie ai numeri:
 
-- Più di 250 cittadini incontrati e informati singolarmente;
-- Oltre 70 incontri pubblici tra assemblee e sportelli informativi;
-- 3000 copie circa di OISSA distribuite gratuitamente su tutto il cratere;
-- 13 questioni e criticità da noi denunciate rilanciate dai media;
+* Più di 250 cittadini incontrati e informati singolarmente;
+* Oltre 70 incontri pubblici tra assemblee e sportelli informativi;
+* 3000 copie circa di OISSA distribuite gratuitamente su tutto il cratere;
+* 13 questioni e criticità da noi denunciate rilanciate dai media;
 
 Inoltre, legami, rapporti, amicizie e relazioni sviluppate su tutto il "Cratere", che ci hanno resi più forti e maggiormente consapevoli che la nostra idea di supporto legale in emergenza è uno strumento in cui credere
 e per cui vale la pena continuare a lottare.
@@ -62,10 +62,7 @@ la "decretazione d'urgenza".
 Ogni Governo ha gestito i terremoti in modo differente, quasi mai uniformandosi alla gestione precedente.
 Gli effetti di tale scelta sono oggi sotto gli occhi di tutti.
 Processi spezzettati, ordinanze e decreti legge che si susseguono in
-tempi rapidissimi e mutano orientamento a seconda dei ritardi e delle
-
-
-esigenze, impossibilità per gli operatori attivi sul territorio di avere una
+tempi rapidissimi e mutano orientamento a seconda dei ritardi e delle esigenze, impossibilità per gli operatori attivi sul territorio di avere una
 conoscenza delle leggi tale da poter dare risposte sicure.
 Insomma, un "guazzabuglio" di norme tale da rendere spesso il cittadino impossibilitato ad entrare in contatto con le Istituzioni e di farsi una
 coscienza propria sui problemi.
