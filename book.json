@@ -5,9 +5,7 @@
     "direction": "ltr",
     "pdf.paperSize": "a4",
     "root": "markdown",
-    "plugins" : [ 
-        "anchors",
-        "edit-link","disqus","superscript","youtube"],
+    "plugins" : ["anchors","edit-link","disqus","superscript","youtube","bootstrap-callout"],
         "pluginsConfig": {
             "edit-link": {
                 "base": "https://github.com/RicostruzioneTrasparente/oissa2webbook/tree/master/markdown",
