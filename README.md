@@ -66,7 +66,7 @@ nella tua frazione contattaci:
 
 **QUESTO VADEMECUM È IN CONTINUO AGGIORNAMENTO**:
 * Sul sito: [www.fabbricadeidiritti.it](www.fabbricadeidiritti.it) e [www.oissa.info](www.oissa.info)
-* Sulla nostra pagina Facebook: [Alterego-Fabbrica dei diritti]((https://www.facebook.com/fabbricadeidiritti/)).
+* Sulla nostra pagina Facebook: [Alterego-Fabbrica dei diritti](https://www.facebook.com/fabbricadeidiritti/).
 
 ![footer_01](./markdown/00/resources/footer_01.png)
 
