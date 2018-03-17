@@ -49,6 +49,7 @@ Ed è dalla parte di ogni individuo che potrete trovarci.
 **NOI DA QUI NON CE NE ANDIAMO!**
 
 **SOSTIENI IL NOSTRO LAVORO CON UNA DONAZIONE**
+
 IBAN IT 18M0103003278000001586995
 
 **CONTATTACI**
@@ -59,7 +60,7 @@ nella tua frazione contattaci:
 
 **QUESTO VADEMECUM È IN CONTINUO AGGIORNAMENTO**:
 * Sul sito: [www.fabbricadeidiritti.it](www.fabbricadeidiritti.it) e [www.oissa.info](www.oissa.info)
-* Sulla nostra pagina Facebook: Alterego-Fabbrica dei diritti.
+* Sulla nostra pagina Facebook: [Alterego-Fabbrica dei diritti]((https://www.facebook.com/fabbricadeidiritti/)).
 
 ![footer_01](./00/resources/footer_01.png)
 
