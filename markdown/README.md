@@ -1,4 +1,4 @@
-# oissa2webbook
+# Oissa2
 
 ![Omini tagliati](./00/resources/omini_tagliati.png)
 
