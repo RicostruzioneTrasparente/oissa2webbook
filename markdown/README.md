@@ -1,4 +1,4 @@
-![Omini tagliati](../resources/cover.jpg)
+![Omini tagliati](../resources/oissa2CoverGitbook.png)
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
