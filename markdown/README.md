@@ -2,6 +2,8 @@
 
 ![Omini tagliati](./00/resources/omini_tagliati.png)
 
+*A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
+
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – [OISSA](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
 
