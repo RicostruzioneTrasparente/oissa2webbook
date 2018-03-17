@@ -11,4 +11,4 @@
 * [6 Ricostruzione pubblica](06/06.md)
 * [7 Gestione delle macerie](07/07.md)
 * [8 Aiuto alle imprese e lavoro](08/08.md)
-* [Postfazione](00/footer.md)
+* [Postfazione](00/postfazione.md)
