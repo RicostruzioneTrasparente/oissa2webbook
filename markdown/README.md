@@ -1,9 +1,9 @@
-![Omini tagliati](../resources/oissa2CoverGitbook.png)
+![Copertina](https://raw.githubusercontent.com/RicostruzioneTrasparente/oissa2webbook/master/resources/oissa2CoverGitbook.png)
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
-* Scarica [Oissa](../resources/Oissa.pdf) (prima versione) in formato *pdf*
-* Scarica [Oissa2](../resources/Oissa_2.pdf) (questa versione) in formato *pdf*
+* Scarica [Oissa](https://github.com/RicostruzioneTrasparente/oissa2webbook/raw/master/resources/Oissa.pdf) (prima versione) in formato *pdf*
+* Scarica [Oissa2](https://github.com/RicostruzioneTrasparente/oissa2webbook/raw/master/resources/Oissa_2.pdf) (questa versione) in formato *pdf*
 
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – [Oissa](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
