@@ -1,6 +1,6 @@
 # oissa2webbook
 
-![Omini tagliati](./resources/omini_tagliati.png)
+![Omini tagliati](./00/resources/omini_tagliati.png)
 
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – [OISSA](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
@@ -59,13 +59,13 @@ nella tua frazione contattaci:
 * Sul sito: [www.fabbricadeidiritti.it](www.fabbricadeidiritti.it) e [www.oissa.info](www.oissa.info)
 * Sulla nostra pagina Facebook: Alterego-Fabbrica dei diritti.
 
-![footer_01](./resources/footer_01.png)
+![footer_01](./00/resources/footer_01.png)
 
-![footer_02](./resources/footer_02.png)
+![footer_02](./00/resources/footer_02.png)
 
-![footer_03](./resources/footer_03.png)
+![footer_03](./00/resources/footer_03.png)
 
-![footer_04](./resources/footer_04.png)
+![footer_04](./00/resources/footer_04.png)
 
-![footer_05](./resources/footer_05.png)
+![footer_05](./00/resources/footer_05.png)
 
