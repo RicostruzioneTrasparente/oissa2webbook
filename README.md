@@ -2,8 +2,8 @@
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
-* Scarica [Oissa](../resources/Oissa.pdf) (prima versione) in formato *pdf*
-* Scarica [Oissa2](../resources/Oissa_2.pdf) (questa versione) in formato *pdf*
+* Scarica [Oissa](./resources/Oissa.pdf) (prima versione) in formato *pdf*
+* Scarica [Oissa2](./resources/Oissa_2.pdf) (questa versione) in formato *pdf*
 
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – [Oissa](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
