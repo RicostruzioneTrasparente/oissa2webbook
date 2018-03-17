@@ -1,8 +1,9 @@
-# Oissa2
-
-![Omini tagliati](./00/resources/omini_tagliati.png)
+![Omini tagliati](../resources/cover.jpg)
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
+
+* Scarica [Oissa](../resources/Oissa.pdf) (prima versione) in formato pdf
+* Scarica [Oissa2](../resources/Oissa_2.pdf) (questa versione) in formato pdf
 
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – [OISSA](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
@@ -45,6 +46,8 @@ Processi spezzettati, ordinanze e decreti legge che si susseguono in tempi rapid
 La storia di ogni individuo è la storia di tutti noi.
 
 Ed è dalla parte di ogni individuo che potrete trovarci.
+
+![Omini tagliati](./00/resources/omini_tagliati.png)
 
 **NOI DA QUI NON CE NE ANDIAMO!**
 
