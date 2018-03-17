@@ -1,6 +1,5 @@
 # Indice
 # Prefazione
-# Introduzione
 # 1. Emergenza abitativa
 ## Misure di prima emergenza
 ### Contributo autonoma sistemazione
