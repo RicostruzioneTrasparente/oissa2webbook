@@ -1,4 +1,4 @@
-![Copertina](https://raw.githubusercontent.com/RicostruzioneTrasparente/oissa2webbook/master/resources/oissa2CoverGitbook.png)
+# Introduzione
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 

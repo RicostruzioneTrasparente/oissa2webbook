@@ -1,6 +1,6 @@
 # Sommario
 
-* [Benvenuti](README.md)
+* [Introduzione](README.md)
 * [Prefazione](00/prefazione.md)
 * [1 Emergenza abitativa](01/01.md)
 * [2 Terremoto e territorio](02/02.md)

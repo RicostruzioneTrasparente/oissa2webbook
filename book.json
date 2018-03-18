@@ -1,6 +1,6 @@
 {
     "language": "it",
-    "title": "OISSA 2 - Diritti in Ri-costruzione",
+    "title": "Oissa 2 - Diritti in Ri-costruzione",
     "author": "Alterego – Fabbrica dei Diritti",
     "direction": "ltr",
     "pdf.paperSize": "a4",
@@ -12,7 +12,7 @@
                 "label": "su GitHub"
             },
             "disqus": {
-                "shortName": "oissa2"
+                "shortName": "Oissa2"
             },
             "sharing": {
                 "facebook": true,
