@@ -2,12 +2,6 @@
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
-* Scarica [Oissa](https://github.com/RicostruzioneTrasparente/oissa2webbook/raw/master/resources/Oissa.pdf) (prima versione) in formato *pdf*
-* Scarica [Oissa2](https://github.com/RicostruzioneTrasparente/oissa2webbook/raw/master/resources/Oissa_2.pdf) in formato *pdf* - versione per stampa.
-* [Leggi la versione web di Oissa2](https://ricostruzionetrasparente.gitbooks.io/oissa2webbook/content/00/prefazione.html) - la versione web è continuamente aggiornata
- * [attraverso questo link](https://www.gitbook.com/download/pdf/book/ricostruzionetrasparente/oissa2webbook) è possbile scaricare un pdf sempre aggiornato;
- * è possibile scaricare anche la versione - sempre aggiornata - [in pormato *epub*](https://www.gitbook.com/download/epub/book/ricostruzionetrasparente/oissa2webbook).
-
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum
 Legale – [Oissa](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
 
@@ -52,6 +46,17 @@ Ed è dalla parte di ogni individuo che potrete trovarci.
 
 ![Omini tagliati](./00/resources/omini_tagliati.png)
 
+---
+
+* Scarica [Oissa](https://github.com/RicostruzioneTrasparente/oissa2webbook/raw/master/resources/Oissa.pdf) (prima versione) in formato *pdf*
+* Scarica [Oissa2](https://github.com/RicostruzioneTrasparente/oissa2webbook/raw/master/resources/Oissa_2.pdf) in formato *pdf* - versione per stampa.
+* [Leggi la versione web di Oissa2](https://ricostruzionetrasparente.gitbooks.io/oissa2webbook/content/00/prefazione.html) - questa versione è continuamente aggiornata:
+    * [attraverso questo link](https://www.gitbook.com/download/pdf/book/ricostruzionetrasparente/oissa2webbook) è possbile scaricare il pdf aggiornato;
+    * [attraverso questo link](https://www.gitbook.com/download/epub/book/ricostruzionetrasparente/oissa2webbook) è possbile scaricare l'**ebook in formato epub** aggiornato;
+    * [attraverso questo link](https://www.gitbook.com/download/mobi/book/ricostruzionetrasparente/oissa2webbook) è possbile scaricare l'**ebook in formato mobi** aggiornato;
+
+---
+
 **NOI DA QUI NON CE NE ANDIAMO!**
 
 **SOSTIENI IL NOSTRO LAVORO CON UNA DONAZIONE**
@@ -67,6 +72,8 @@ nella tua frazione contattaci:
 **QUESTO VADEMECUM È IN CONTINUO AGGIORNAMENTO**:
 * Sul sito: [www.fabbricadeidiritti.it](www.fabbricadeidiritti.it) e [www.oissa.info](www.oissa.info)
 * Sulla nostra pagina Facebook: [Alterego-Fabbrica dei diritti](https://www.facebook.com/fabbricadeidiritti/).
+
+---
 
 ![footer_01](./00/resources/footer_01.png)
 
