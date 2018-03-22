@@ -2,8 +2,7 @@
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
-A quasi un anno dall'uscita della prima edizione del nostro Vademecum
-Legale – [Oissa](http://www.fabbricadeidiritti.it/2017/11/17/il-vademecum-legale-oissa-tutto-quello-che-ce-da-sapere-sulla-disciplina-post-sisma/) molte cose sono cambiate.
+A quasi un anno dall'uscita della prima edizione del nostro Vademecum Legale – **Oissa** molte cose sono cambiate. Uno dei cambiamenti è questa versione ipertestuale della guida a cura dell'associazione [onData](http://ondata.it), creata per il progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it).
 
 **Il generale sentimento di speranza, condiviso da tutta la popolazione** nei mesi successivi ai tragici eventi del 24 Agosto 2016 e delle successive devastanti scosse succedutesi il 30 Ottobre 2016 e nel mese di Gennaio 2017, **è mutato in un sentimento di attesa e, a volte, di rabbia**.
 
