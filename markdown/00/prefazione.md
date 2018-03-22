@@ -28,3 +28,11 @@ Una forma di mutualità del XXI secolo nella quale, in maniera autonome ed indip
 Per questo intendiamo la diffusione di questo vademecum importante tanto quanto la distribuzione di aiuti materiali.
 
 ![Omini tagliati](./resources/omini_tagliati.png)
+
+---
+<footer>
+<div id="about">
+A cura di <a href="http://www.fabbricadeidiritti.it/" target="_blank">Alterego</a> – <a href="https://www.facebook.com/fabbricadeidiritti/" target="_blank">Fabbrica dei Diritti</a>.<br>
+Questa <strong>versione ipertestuale</strong> è stata realizzata dall'<a target="_blank" href="http://ondata.it">associazione onData</a> per il progetto <a target="_blank" href="http://ricostruzionetrasparente.it/">Ricostruzione Trasparente</a>.
+</div>
+</footer>
