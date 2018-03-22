@@ -1,1 +1,7 @@
 /* CSS for website */
+
+#about{
+    font-size: 0.85em !important;
+    color: #777  !important;
+    text-align: center !important;
+}
