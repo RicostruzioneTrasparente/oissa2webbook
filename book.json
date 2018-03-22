@@ -5,25 +5,28 @@
     "direction": "ltr",
     "pdf.paperSize": "a4",
     "root": "markdown",
-    "plugins" : ["anchors","edit-link","disqus","superscript","youtube","bootstrap-callout","splitter"],
-        "pluginsConfig": {
-            "edit-link": {
-                "base": "https://github.com/RicostruzioneTrasparente/oissa2webbook/tree/master/markdown",
-                "label": "su GitHub"
-            },
-            "disqus": {
-                "shortName": "Oissa2"
-            },
-            "sharing": {
-                "facebook": true,
-                "twitter": true,
-                "google": false,
-                "weibo": false,
-                "instapaper": false,
-                "vk": false,
-                "all": [
-                    "facebook", "google", "twitter"
-                ]
-            }
+    "plugins" : ["anchors","edit-link","disqus","superscript","youtube","bootstrap-callout","splitter","ga"],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/RicostruzioneTrasparente/oissa2webbook/tree/master/markdown",
+            "label": "su GitHub"
+        },
+        "disqus": {
+            "shortName": "Oissa2"
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter"
+            ]
+        },
+        "ga": {
+            "token": "UA-82057463-3"
         }
     }
+}
