@@ -2,13 +2,9 @@
 
 # Introduzione
 
-*A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
-
-Oissa è un vademecum Legale a cura di Alterego – Fabbrica dei Diritti, pubblicato nel [marzo del 2017](http://www.alterego.studio/oissa-vademecum-legale-terremoto-italia-centrale-2016-2017/), è un lavoro che parte da una necessità: rendere le popolazioni colpite dal sisma parte attiva del processo di ricostruzione e dando quindi loro la possibilità di partecipare alle scelte che riguarderanno il loro futuro.
+**Oissa** è un vademecum Legale a cura di [Alterego](http://www.alterego.studio/) – [Fabbrica dei Diritti](http://www.fabbricadeidiritti.it/), pubblicato nel [marzo del 2017](http://www.alterego.studio/oissa-vademecum-legale-terremoto-italia-centrale-2016-2017/), è un lavoro che parte da una necessità: rendere le popolazioni colpite dal sisma parte attiva del processo di ricostruzione e dando quindi loro la possibilità di partecipare alle scelte che riguarderanno il loro futuro.
 A quasi un anno dall'uscita vede la luce una nuova edizione aggiornata e molte cose sono cambiate.
 Uno dei cambiamenti è questa versione ipertestuale della guida a cura dell'associazione [onData](http://ondata.it), creata per il progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it).
-
----
 
 **Il generale sentimento di speranza, condiviso da tutta la popolazione** nei mesi successivi ai tragici eventi del 24 Agosto 2016 e delle successive devastanti scosse succedutesi il 30 Ottobre 2016 e nel mese di Gennaio 2017, **è mutato in un sentimento di attesa e, a volte, di rabbia**.
 
@@ -74,10 +70,6 @@ nella tua frazione contattaci:
 * Inviando una mail a info@fabbricadeidiritti.it
 * Chiamando allo 06-8845197
 
-**QUESTO VADEMECUM È IN CONTINUO AGGIORNAMENTO**:
-* Sul sito: [www.fabbricadeidiritti.it](www.fabbricadeidiritti.it) e [www.oissa.info](www.oissa.info)
-* Sulla nostra pagina Facebook: [Alterego-Fabbrica dei diritti](https://www.facebook.com/fabbricadeidiritti/).
-
 ---
 
 ![footer_01](./00/resources/footer_01.png)
@@ -93,7 +85,7 @@ nella tua frazione contattaci:
 ---
 <footer>
 <div id="about">
-A cura di <a href="http://www.fabbricadeidiritti.it/" target="_blank">Alterego</a> – <a href="https://www.facebook.com/fabbricadeidiritti/" target="_blank">Fabbrica dei Diritti</a>.<br>
+A cura di <a href="http://www.alterego.studio/" target="_blank">Alterego</a> – <a href="http://www.fabbricadeidiritti.it/" target="_blank">Fabbrica dei Diritti</a>.<br>
 Questa <strong>versione ipertestuale</strong> è stata realizzata dall'<a target="_blank" href="http://ondata.it">associazione onData</a> per il progetto <a target="_blank" href="http://ricostruzionetrasparente.it/">Ricostruzione Trasparente</a>.
 </div>
 </footer>
