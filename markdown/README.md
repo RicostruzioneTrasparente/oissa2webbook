@@ -2,6 +2,14 @@
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
+Oissa è un vademecum Legale a cura di Alterego – Fabbrica dei Diritti, creato ad aprile del .... (inseire la data), per ...
+A quasi un anno dall'uscita è stata aggiornata e molte cose sono cambiate.
+Uno dei cambiamenti è questa versione ipertestuale della guida a cura dell'associazione [onData](http://ondata.it), creata per il progetto Ricostruzione Trasparente.
+
+
+
+
+
 A quasi un anno dall'uscita della prima edizione del nostro Vademecum Legale – **Oissa** molte cose sono cambiate.<br>Una delle novità è questa **versione ipertestuale** creata dall'[associazione onData](http://ondata.it) in collaborazione con con Alterego - Fabbrica dei diritti e le [Brigate di solidarietà attiva](https://www.facebook.com/terremotocentroitalia/), anche a supporto del progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it).
 
 ---
