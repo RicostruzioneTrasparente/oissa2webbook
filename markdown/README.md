@@ -2,7 +2,7 @@
 
 *A cura di [Alterego](http://www.fabbricadeidiritti.it/) – [Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
 
-A quasi un anno dall'uscita della prima edizione del nostro Vademecum Legale – **Oissa** molte cose sono cambiate.<br>Uno dei cambiamenti è questa **versione ipertestuale** della guida a cura dell'associazione [onData](http://ondata.it), creata per il progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it).
+A quasi un anno dall'uscita della prima edizione del nostro Vademecum Legale – **Oissa** molte cose sono cambiate.<br>Una delle novità è questa **versione ipertestuale** creata dall'[associazione onData](http://ondata.it) in collaborazione con con Alterego - Fabbrica dei diritti e le [Brigate di solidarietà attiva](https://www.facebook.com/terremotocentroitalia/), anche a supporto del progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it).
 
 ---
 
