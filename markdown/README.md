@@ -2,9 +2,11 @@
 
 # Introduzione
 
-**Oissa** è un vademecum Legale a cura di [Alterego](http://www.alterego.studio/) – [Fabbrica dei Diritti](http://www.fabbricadeidiritti.it/), pubblicato nel [marzo del 2017](http://www.alterego.studio/oissa-vademecum-legale-terremoto-italia-centrale-2016-2017/), è un lavoro che parte da una necessità: rendere le popolazioni colpite dal sisma parte attiva del processo di ricostruzione e dando quindi loro la possibilità di partecipare alle scelte che riguarderanno il loro futuro.
-A quasi un anno dall'uscita vede la luce una nuova edizione aggiornata e molte cose sono cambiate.
-Uno dei cambiamenti è questa versione ipertestuale della guida a cura dell'associazione [onData](http://ondata.it), creata per il progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it).
+*A cura di [Alterego – Fabbrica dei Diritti](https://www.facebook.com/fabbricadeidiritti/)*
+
+**Oissa** è un vademecum Legale a cura di [Alterego](http://www.alterego.studio/) – [Fabbrica dei Diritti](http://www.fabbricadeidiritti.it/), pubblicato nel [marzo del 2017](http://www.alterego.studio/oissa-vademecum-legale-terremoto-italia-centrale-2016-2017/), che parte da una necessità: rendere le popolazioni colpite dal sisma parte attiva del processo di ricostruzione e dando quindi loro la possibilità di partecipare alle scelte che riguarderanno il loro futuro.<br>
+A quasi un anno dall'uscita vede la luce una nuova edizione aggiornata e molte cose sono cambiate.<br>
+Una delle novità è questa **versione ipertestuale** creata dall'[associazione onData]() in collaborazione con con Alterego - Fabbrica dei diritti e le [Brigate di solidarietà attiva](https://www.facebook.com/terremotocentroitalia/), anche a supporto del progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it/).
 
 **Il generale sentimento di speranza, condiviso da tutta la popolazione** nei mesi successivi ai tragici eventi del 24 Agosto 2016 e delle successive devastanti scosse succedutesi il 30 Ottobre 2016 e nel mese di Gennaio 2017, **è mutato in un sentimento di attesa e, a volte, di rabbia**.
 
