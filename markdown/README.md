@@ -8,6 +8,8 @@
 A quasi un anno dall'uscita vede la luce una nuova edizione aggiornata e molte cose sono cambiate.<br>
 Una delle novità è questa **versione ipertestuale** creata dall'[associazione onData](http://ondata.it/) in collaborazione con con Alterego - Fabbrica dei diritti e le [Brigate di solidarietà attiva](https://www.facebook.com/terremotocentroitalia/), anche a supporto del progetto [Ricostruzione Trasparente](http://ricostruzionetrasparente.it/).
 
+---
+
 **Il generale sentimento di speranza, condiviso da tutta la popolazione** nei mesi successivi ai tragici eventi del 24 Agosto 2016 e delle successive devastanti scosse succedutesi il 30 Ottobre 2016 e nel mese di Gennaio 2017, **è mutato in un sentimento di attesa e, a volte, di rabbia**.
 
 Una parola continua a risuonare di bocca in bocca, sollecitata dai comitati formatisi sul cratere e da una parte dei media: **ritardo**.
